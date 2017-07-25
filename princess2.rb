@@ -55,9 +55,6 @@ end
 #   grid[i] = gets
 # end
 
-# obj = Princess2.new(m, grid)
-# obj = Princess2.new(5, 2, 3, ["-----", "-----", "p--m-", "-----", "-----"])
-# obj = Princess2.new(5, 2, 2, ["-----", "-----", "--m--", "-----", "p----"])
 # puts 'Next move of bot is:'
 # obj = Princess2.new(n, r, c, grid)
 # obj.next_move

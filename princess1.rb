@@ -57,6 +57,4 @@ end
 
 # puts 'Display path to princess:'
 # obj = Princess1.new(m, grid)
-
-# obj = Princess1.new(3, ['p--', '-m-', '---'])
 # obj.display_princess_path
